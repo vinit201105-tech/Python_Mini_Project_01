@@ -1,0 +1,86 @@
+[
+    {
+        "date": "2025-11-06",
+        "description": "For Bus Pass",
+        "amount": 750.0,
+        "category": "Travel"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "For Gym Proteins and Creatins",
+        "amount": 2000.0,
+        "category": "Gym material shopping from amazon"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "College Stationary Material Notebooks,Pen,Xerox......",
+        "amount": 1000.0,
+        "category": "Study material"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "Biryani and Other Food ",
+        "amount": 500.0,
+        "category": "Food"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "New Cloths",
+        "amount": 2000.0,
+        "category": "Shopping"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "Bus pass ",
+        "amount": 750.0,
+        "category": "Travel"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "For Gym Proteins and Creatins ",
+        "amount": 2000.0,
+        "category": "Gym diet"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "College Stationary",
+        "amount": 990.0,
+        "category": "Study material"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "Pizza and Burger and Biryani",
+        "amount": 800.0,
+        "category": "Food"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "Bus Pass",
+        "amount": 750.0,
+        "category": "Travel"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "Gym Proteins and Creatins",
+        "amount": 2000.0,
+        "category": "Gym diet"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "College Stationary",
+        "amount": 800.0,
+        "category": "Study material"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "New Cloths ",
+        "amount": 2200.0,
+        "category": "Shopping"
+    },
+    {
+        "date": "2025-11-06",
+        "description": "FOodd Pizza",
+        "amount": 300.0,
+        "category": "Food"
+    }
+]
